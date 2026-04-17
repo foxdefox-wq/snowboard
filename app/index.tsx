@@ -1,13 +1,5 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput } from 'react-native';
-// add this but with ghp 
-//_OyNyMwt
-//ef
-//yzI4QL7hi
-//wkiHh
-//FGtuL
-//920c
-//jOwS
 
 export default function MyScreen() {
   const [editable, setEditable] = useState(true);
@@ -16,7 +8,6 @@ export default function MyScreen() {
   return (
     <View>
       <Text style={{}}>{text}</Text>
-
       <TextInput
         style={{
           borderRadius: 10,
